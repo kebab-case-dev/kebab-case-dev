@@ -1,14 +1,17 @@
-# Welcome
+# Hi, schön dass Du da bist!
 ---
-#### I'm learning Web Development @neuefische
+## Was mache ich aktuell?
+Ich arbeite als Web-Developer und entwickle für Magento 2 und Shopware.
 ---
-#### Tech-Stack:
+## Der Weg bis hierher:
 - [x] HTML
 - [x] CSS
-- [ ] JS
-- [ ] ReactJS
-- [ ] PHP
+- [x] JS
+- [x] ReactJS
+- [x] PHP
 - [x] MySQL
-- [ ] MongoDB
+- [x] MongoDB
+- [ ] Magento2
+- [ ] Shopware
+- [ ] TailwindCSS
 ---
-![link](https://w7.pngwing.com/pngs/501/438/png-transparent-man-using-laptop-illustration-web-development-web-developer-web-design-web-development-text-computer-presentation.png)
