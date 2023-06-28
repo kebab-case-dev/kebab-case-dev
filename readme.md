@@ -1,9 +1,11 @@
 # Hi, schön dass Du da bist!
----
+
 ## Was mache ich aktuell?
+
 Ich arbeite als Web-Developer und entwickle für Magento 2 und Shopware.
----
+
 ## Der Weg bis hierher:
+
 - [x] HTML
 - [x] CSS
 - [x] JS
@@ -14,4 +16,3 @@ Ich arbeite als Web-Developer und entwickle für Magento 2 und Shopware.
 - [ ] Magento2
 - [ ] Shopware
 - [ ] TailwindCSS
----
