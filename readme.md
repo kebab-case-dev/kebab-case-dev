@@ -1,10 +1,12 @@
-# Hi, schön dass Du da bist!
+# Hello everybody 👋
 
-## Was mache ich aktuell?
+My name is Bilal and i am a junior-level web-developer for 1 year now. I work in an e-commerce agency, where we create, update and design Magento 1, Magento 2, OpenMage, Mage-OS, Shopware 5 and Shopware6 based Online-Shops. We also create extensions and plug-ins, make translations and we add semantic information to elements for great lighthouse results.
 
-Ich arbeite als Web-Developer und entwickle für Magento 2 und Shopware.
+## My most-popular repository
 
-## Der Weg bis hierher:
+Chemperator is my actual most-popular project. This software is based on php and a mariadb database. It will help chemistry companies to organize whole processes in developing, fullfilling and selling cleaning-products.
+
+## My journey:
 
 - [x] HTML
 - [x] CSS
@@ -13,6 +15,18 @@ Ich arbeite als Web-Developer und entwickle für Magento 2 und Shopware.
 - [x] PHP
 - [x] MySQL
 - [x] MongoDB
-- [ ] Magento2
+- [x] Magento2
 - [ ] Shopware
-- [ ] TailwindCSS
+- [x] TailwindCSS
+- [ ] Twig templates
+- [ ] Laravel
+- [ ] Blade templates
+
+## Social:
+
+[LinkedIN](https://www.linkedin.com/in/bilal-kuzey/)
+
+[PortfolioPage](https://bk1405bgl.de/)
+
+
+
