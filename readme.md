@@ -24,7 +24,8 @@ Chemperator is my actual most-popular project. This software is based on php and
 
 ## Social:
 
-[![LinkedIn Logo]([https://example.com/linkedin-logo.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://www.linkedin.com/in/dein-profil](https://www.linkedin.com/in/bilal-kuzey/))
+[![LinkedIn Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-kuzey/)
+
 
 
 [PortfolioPage](https://bk1405bgl.de/)
