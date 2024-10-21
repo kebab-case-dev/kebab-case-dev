@@ -1,6 +1,6 @@
 # Hello everybody 👋
 
-My name is Bilal and i am a junior-level web-developer for 1 year now. I work in an e-commerce agency, where we create, update and design Magento 1, Magento 2, OpenMage, Mage-OS, Shopware 5 and Shopware6 based Online-Shops. We also create extensions and plug-ins, make translations and we add semantic information to elements for great lighthouse results.
+My name is Bilal and i am a junior-level web-developer for 2 year now. I work in an e-commerce agency, where we create, update and design Magento 1, Magento 2, OpenMage, Mage-OS, Shopware 5 and Shopware 6 based Online-Shops. We also create extensions and plug-ins, make translations and we add semantic information to elements for great lighthouse results.
 
 ## My most-popular repository
 
@@ -16,7 +16,7 @@ Chemperator is my actual most-popular project. This software is based on php and
 - [x] MySQL
 - [x] MongoDB
 - [x] Magento2
-- [ ] Shopware
+- [x] Shopware
 - [x] TailwindCSS
 - [ ] Twig templates
 - [ ] Laravel
