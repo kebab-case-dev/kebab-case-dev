@@ -16,7 +16,7 @@ Chemperator is my actual most-popular project. This software is based on php and
 - [x] MySQL
 - [x] MongoDB
 - [x] Magento2 (Certification in process)
-- [x] Shopware
+- [x] Shopware (2x certified)
 - [x] TailwindCSS
 - [ ] Twig templates
 - [ ] Laravel
